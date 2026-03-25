@@ -1,6 +1,6 @@
 #  TechStore Expert Bot - IA Especialista
 
-Este repositório contém um **Chatbot Especialista** desenvolvido em Python, utilizando a API do **Google Gemini 1.5 Flash**. O bot foi projetado para atuar como um atendente virtual da loja **TechStore**, fornecendo informações precisas sobre políticas de entrega, trocas e garantias.
+Este repositório contém um **Chatbot Especialista** desenvolvido em Python, utilizando a API do **Google Gemini 2.5 Flash**. O bot foi projetado para atuar como um atendente virtual da loja **TechStore**, fornecendo informações precisas sobre políticas de entrega, trocas e garantias.
 
 ##  Objetivo
 Demonstrar a implementação de um modelo de IA com **restrição de domínio**, garantindo que as respostas sejam baseadas exclusivamente em um contexto pré-definido, evitando "alucinações" e mantendo a persona da marca.
